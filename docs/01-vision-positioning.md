@@ -1,309 +1,212 @@
-# Vision & Positioning
+# Visi & Positioning
 
-> **Version:** 1.0  
-> **Status:** Draft  
-> **Last Updated:** July 2026
-
----
-
-# Overview
-
-Hazz Farm is a modern agriculture company founded in 2022 by **Muhammad Hazmi**. What began as a small farming initiative funded by personal savings has evolved into a long-term vision of building an agriculture ecosystem powered by technology.
-
-Today, Hazz Farm cultivates agricultural products while laying the foundation for future innovations in Internet of Things (IoT), artificial intelligence (AI), automation, and data-driven farming.
-
-Rather than positioning itself solely as a producer of agricultural commodities, Hazz Farm aims to become an agritech company where technology and agriculture grow together.
+> **Versi:** 1.0
+> **Status:** Draft
+> **Terakhir diperbarui:** Juli 2026
 
 ---
 
-# Our Vision
+# Pendahuluan
 
-> **To become one of Indonesia's leading agritech companies by integrating modern agriculture, Internet of Things (IoT), artificial intelligence, and data-driven decision making into sustainable farming.**
-
----
-
-# Our Mission
-
-- Build sustainable and technology-driven agricultural practices.
-- Deliver high-quality agricultural products with transparency and consistency.
-- Develop digital platforms that support modern farming.
-- Integrate IoT technologies into agricultural operations.
-- Utilize artificial intelligence to improve productivity and decision making.
-- Share knowledge and innovation to encourage the growth of modern agriculture.
+Dokumen ini menjelaskan visi, positioning, filosofi, arah pengembangan, serta prinsip dasar Hazz Farm. Seluruh keputusan terkait desain produk, pengembangan teknologi, maupun strategi bisnis diharapkan mengacu pada dokumen ini agar Hazz Farm berkembang secara konsisten dan memiliki identitas yang kuat.
 
 ---
 
-# Positioning Statement
+# Tentang Hazz Farm
 
-Hazz Farm is a **modern agriculture technology company** that develops smart farming solutions while producing high-quality agricultural products.
+Hazz Farm adalah perusahaan pertanian modern yang didirikan pada tahun **2022** oleh **Muhammad Hazmi**.
 
-Agriculture is our foundation.
+Berawal dari modal hasil menyisihkan uang jajan saat masih duduk di bangku SMK, Hazz Farm tumbuh dari sebuah kebun kecil menjadi langkah awal dalam mewujudkan cita-cita membangun perusahaan agritech di Indonesia.
 
-Technology is our future.
+Saat ini Hazz Farm berfokus pada budidaya hasil pertanian sekaligus mempersiapkan fondasi teknologi berupa Internet of Things (IoT), Artificial Intelligence (AI), analisis data, dan sistem Smart Farming sebagai arah pengembangan jangka panjang.
 
----
-
-# Brand Purpose
-
-To accelerate the transformation of agriculture by making technology accessible, practical, and beneficial for farmers, consumers, and future generations.
+Hazz Farm percaya bahwa pertanian tidak hanya menghasilkan produk, tetapi juga dapat menjadi ruang inovasi yang mampu memberikan dampak positif bagi masyarakat.
 
 ---
 
-# Long-Term Vision
+# Mengapa Hazz Farm Dibangun?
 
-Hazz Farm is not intended to remain solely a producer of agricultural products.
+Hazz Farm dibangun atas kecintaan terhadap dunia pertanian dan keyakinan bahwa sektor pertanian memiliki potensi besar untuk terus berkembang melalui inovasi dan teknologi.
 
-Our long-term objective is to build an integrated agriculture ecosystem consisting of:
+Perjalanan Hazz Farm dimulai dari pengalaman langsung dalam proses budidaya, mulai dari penanaman, perawatan, hingga panen. Pengalaman tersebut menumbuhkan semangat untuk terus belajar, mengembangkan pengetahuan di bidang pertanian, dan membangun sebuah usaha yang mampu memberikan manfaat bagi masyarakat.
 
-- Smart Farming
-- IoT Monitoring
-- Artificial Intelligence
-- Agriculture Analytics
-- Knowledge Platform
-- Digital Agriculture Services
-
-Agricultural production represents the first stage of this long-term journey.
+Dalam jangka panjang, Hazz Farm tidak hanya berfokus pada hasil panen, tetapi juga berupaya menjadi perusahaan agritech yang menghadirkan solusi modern untuk sektor pertanian di Indonesia.
 
 ---
 
-# Core Values
+# Visi
 
-## Innovation
-
-We continuously explore new technologies to improve agricultural practices.
+> **Menjadi perusahaan agritech Indonesia yang mengintegrasikan pertanian modern, Internet of Things (IoT), kecerdasan buatan (AI), dan pengambilan keputusan berbasis data untuk menciptakan pertanian yang lebih efisien, berkelanjutan, dan bermanfaat bagi masyarakat.**
 
 ---
 
-## Sustainability
+# Misi
 
-Every decision should support long-term environmental, economic, and social sustainability.
-
----
-
-## Transparency
-
-We believe that trust is built through openness, measurable processes, and reliable information.
-
----
-
-## Continuous Learning
-
-Agriculture constantly evolves, and so do we.
+* Mengembangkan praktik pertanian yang modern dan berkelanjutan.
+* Menghasilkan produk pertanian berkualitas tinggi dengan proses yang transparan.
+* Mengembangkan platform digital yang mendukung kegiatan pertanian.
+* Mengintegrasikan teknologi Internet of Things (IoT) ke dalam proses budidaya.
+* Memanfaatkan Artificial Intelligence (AI) untuk meningkatkan produktivitas dan pengambilan keputusan.
+* Berbagi pengetahuan dan inovasi guna mendorong berkembangnya pertanian modern di Indonesia.
 
 ---
 
-## Quality
+# Positioning
 
-We prioritize consistency, product quality, and customer satisfaction.
+Hazz Farm adalah **perusahaan agritech** yang mengembangkan solusi pertanian modern sekaligus menghasilkan produk pertanian berkualitas.
 
----
+Bagi Hazz Farm, kegiatan budidaya bukan sekadar proses produksi, tetapi juga menjadi laboratorium nyata untuk mengembangkan teknologi pertanian yang dapat diterapkan di masa depan.
 
-# Brand Personality
-
-Hazz Farm should always be perceived as:
-
-- Modern
-- Professional
-- Innovative
-- Trustworthy
-- Educational
-- Sustainable
-- Data-Driven
+> **Pertanian adalah fondasi kami. Teknologi adalah masa depan kami.**
 
 ---
 
-# Target Audience
+# Filosofi Hazz Farm
 
-## Consumers
+> **Teknologi tidak menggantikan petani, tetapi membantu petani mengambil keputusan yang lebih baik.**
 
-Individuals seeking fresh, high-quality agricultural products.
+Hazz Farm percaya bahwa masa depan pertanian bukan ditentukan oleh luasnya lahan, melainkan oleh kemampuan memanfaatkan data, teknologi, dan inovasi secara tepat.
 
----
-
-## Farmers
-
-People interested in adopting modern farming practices and technology.
+Oleh karena itu, setiap langkah pengembangan Hazz Farm diarahkan untuk menciptakan sistem pertanian yang lebih efisien, berkelanjutan, dan mudah diadopsi tanpa menghilangkan nilai-nilai dasar pertanian.
 
 ---
 
-## Business Partners
+# Permasalahan yang Ingin Diselesaikan
 
-Organizations interested in agricultural collaboration, supply partnerships, or digital innovation.
+Hazz Farm berangkat dari berbagai tantangan yang masih sering ditemui dalam kegiatan budidaya, terutama proses yang masih dilakukan secara manual.
 
----
+Fokus utama yang ingin diselesaikan meliputi:
 
-## Government & Institutions
+* Penyiraman yang masih dilakukan secara manual.
+* Pemupukan yang belum terukur secara presisi.
+* Sulitnya memantau kondisi lahan secara real-time.
+* Kurangnya data mengenai kelembapan tanah, suhu, dan tingkat pH.
+* Lambatnya deteksi terhadap kondisi tanaman yang berpotensi menurunkan kualitas hasil panen.
 
-Institutions supporting agricultural development, sustainability, and technological adoption.
-
----
-
-## Students & Researchers
-
-People looking for practical knowledge and innovation in agriculture.
+Melalui pengembangan Internet of Things (IoT), Hazz Farm menargetkan sistem pertanian yang mampu melakukan monitoring dan pengambilan keputusan secara lebih cepat, akurat, dan berbasis data.
 
 ---
 
-# Unique Value Proposition
+# Tujuan Jangka Panjang
 
-Unlike conventional agricultural businesses, Hazz Farm combines real farming operations with a long-term commitment to technology development.
+Hazz Farm memiliki tujuan untuk berkembang menjadi perusahaan agritech yang memberikan manfaat nyata bagi sektor pertanian Indonesia.
 
-Our differentiators include:
+Arah pengembangan tersebut meliputi:
 
-- Technology-first mindset
-- Future IoT integration
-- AI-powered customer experience
-- Data-driven cultivation
-- Transparent agricultural process
-- Educational content and knowledge sharing
+* Mengembangkan lahan pertanian secara bertahap.
+* Menerapkan teknologi modern dalam proses budidaya.
+* Membangun sistem Smart Farming berbasis Internet of Things (IoT).
+* Mengembangkan platform digital yang mendukung kegiatan pertanian.
+* Membuka peluang kolaborasi dengan perusahaan, komunitas, institusi pendidikan, maupun pemerintah.
+* Memberdayakan masyarakat sekitar melalui kesempatan kerja, kemitraan, dan transfer pengetahuan.
 
----
-
-# Strategic Pillars
-
-Hazz Farm is built upon five strategic pillars.
-
-## Modern Agriculture
-
-Producing high-quality agricultural products through responsible cultivation.
+Keberhasilan Hazz Farm tidak hanya diukur dari pertumbuhan bisnis, tetapi juga dari dampak positif yang diberikan kepada masyarakat dan perkembangan teknologi pertanian.
 
 ---
 
-## Smart Technology
+# Nilai-Nilai Perusahaan
 
-Developing Internet of Things (IoT), sensors, automation, and smart monitoring systems.
+## Kebersihan
 
----
+Menjaga kebersihan lingkungan, proses budidaya, serta kualitas hasil panen sebagai bentuk tanggung jawab terhadap pelanggan dan lingkungan.
 
-## Artificial Intelligence
+### Efisiensi
 
-Utilizing AI to improve customer service, recommendations, and future farming operations.
+Mengoptimalkan sumber daya, waktu, dan teknologi agar setiap proses pertanian menjadi lebih efektif dan produktif.
 
----
+### Kualitas
 
-## Data Analytics
+Menghasilkan produk pertanian yang segar, berkualitas, dan diproses melalui standar budidaya yang baik.
 
-Transforming agricultural data into meaningful insights for better decision making.
+### Harga yang Adil
 
----
-
-## Sustainability
-
-Building agricultural systems that remain productive for future generations.
+Memberikan harga yang kompetitif dan wajar sehingga mampu memberikan manfaat bagi pelanggan sekaligus menjaga keberlanjutan usaha.
 
 ---
 
-# Company Position
+# Prinsip Pengambilan Keputusan
 
-Hazz Farm is **not** positioned as:
+Seluruh keputusan bisnis Hazz Farm didasarkan pada keseimbangan antara kepuasan pelanggan, keberlanjutan usaha, dan pemerataan distribusi hasil panen.
 
-- Traditional farming business
-- Agricultural retailer
-- Commodity trader
+Hazz Farm terbuka terhadap pembelian dalam jumlah besar, namun tetap mempertimbangkan ketersediaan stok agar pelanggan lain tetap memiliki kesempatan memperoleh produk.
 
-Hazz Farm is positioned as:
-
-- Agritech Company
-- Smart Farming Innovator
-- Agriculture Technology Platform (long-term)
-- Modern Agriculture Company
+Prinsip ini mencerminkan komitmen Hazz Farm dalam membangun hubungan jangka panjang yang adil, transparan, dan saling menguntungkan.
 
 ---
 
-# Development Philosophy
+# Arah Pengembangan
 
-Every feature developed under Hazz Farm should support at least one of these principles.
+## Tahap 1 — Fondasi Digital
 
-- Technology First
-- Data Driven
-- User Centered
-- Transparent
-- Scalable
-- Sustainable
-
----
-
-# Five-Year Direction
-
-## Phase 1
-
-Digital Presence
-
-- Company Profile
-- Product Catalog
-- Blog
-- AI Customer Assistant
+* Website Company Profile
+* Personal Branding
+* Katalog Produk
+* Artikel & Edukasi
+* AI Customer Assistant
 
 ---
 
-## Phase 2
+## Tahap 2 — Platform Digital
 
-Digital Platform
-
-- Dashboard
-- Analytics
-- CMS
-- Customer Management
+* Dashboard Analytics
+* Sistem Manajemen Konten
+* Manajemen Pelanggan
+* Dashboard Admin
 
 ---
 
-## Phase 3
+## Tahap 3 — Smart Farming
 
-Smart Farming
-
-- IoT Devices
-- Sensor Monitoring
-- Weather Integration
-- Automation
+* Integrasi IoT
+* Monitoring Sensor
+* Integrasi Cuaca
+* Otomatisasi Penyiraman dan Pemupukan
 
 ---
 
-## Phase 4
+## Tahap 4 — Artificial Intelligence
 
-Artificial Intelligence
-
-- Crop Recommendation
-- Harvest Prediction
-- Smart Insights
-- Decision Support
+* Prediksi Panen
+* Rekomendasi Budidaya
+* Analisis Data Pertanian
+* Decision Support System
 
 ---
 
-## Phase 5
+## Tahap 5 — Ekosistem Agritech
 
-Agritech Ecosystem
-
-- Farmer Platform
-- Farm Management
-- Research Collaboration
-- Agriculture Innovation
+* Platform Smart Farming
+* Kolaborasi dengan Mitra Pertanian
+* Riset dan Pengembangan
+* Inovasi Teknologi Pertanian
 
 ---
 
-# Success Indicators
+# Indikator Keberhasilan
 
-The long-term success of Hazz Farm is measured by more than sales.
+Keberhasilan Hazz Farm tidak hanya diukur dari jumlah penjualan, tetapi juga dari pertumbuhan dan dampak yang dihasilkan.
 
-Key indicators include:
+Indikator yang menjadi acuan meliputi:
 
-- Customer Trust
-- Product Quality
-- Technology Adoption
-- Website Growth
-- Knowledge Impact
-- Community Engagement
-- IoT Implementation
-- AI Utilization
-- Sustainable Business Growth
-
----
-
-# Closing Statement
-
-Hazz Farm exists to prove that agriculture and technology are not separate industries.
-
-By combining practical farming experience with continuous technological innovation, Hazz Farm aims to become a trusted agritech company that contributes to a smarter, more sustainable future for agriculture.
+* Kepercayaan pelanggan.
+* Kualitas produk.
+* Adopsi teknologi.
+* Pertumbuhan website dan platform digital.
+* Dampak edukasi kepada masyarakat.
+* Implementasi Internet of Things (IoT).
+* Pemanfaatan Artificial Intelligence (AI).
+* Pertumbuhan bisnis yang berkelanjutan.
 
 ---
 
-> **"Agriculture is our foundation. Technology is our future."**
+# Penutup
+
+Hazz Farm hadir untuk membuktikan bahwa pertanian dan teknologi dapat berkembang secara berdampingan.
+
+Dengan menggabungkan pengalaman budidaya di lapangan, semangat belajar, serta pemanfaatan teknologi modern, Hazz Farm berkomitmen membangun ekosistem pertanian yang lebih efisien, transparan, dan berkelanjutan.
+
+Dokumen ini menjadi landasan bagi setiap keputusan yang diambil selama proses pengembangan Hazz Farm, baik dari sisi bisnis maupun teknologi.
+
+---
+
+> **"Pertanian adalah fondasi kami. Teknologi adalah masa depan kami."**
