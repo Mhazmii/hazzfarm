@@ -8,7 +8,7 @@
 
 # Pendahuluan
 
-Dokumen ini menjadi pedoman identitas visual dan komunikasi Hazz Farm. Seluruh desain, konten, website, media sosial, hingga materi promosi harus mengikuti panduan ini agar identitas merek tetap konsisten.
+Dokumen ini menjadi pedoman identitas brand dan komunikasi Hazz Farm. Seluruh desain, konten, website, media sosial, hingga materi promosi harus mengikuti panduan ini agar identitas merek tetap konsisten.
 
 Brand Hazz Farm dibangun untuk mencerminkan perusahaan agritech yang modern, profesional, inovatif, dan berorientasi pada masa depan.
 
@@ -34,6 +34,19 @@ Hazz Farm adalah perusahaan agritech yang menggabungkan praktik pertanian dengan
 
 ---
 
+# Nilai Brand
+
+Hazz Farm dibangun berdasarkan empat nilai utama yang menjadi landasan dalam setiap aktivitas perusahaan.
+
+* **Kebersihan** — Menjaga kualitas lingkungan, proses budidaya, dan hasil panen.
+* **Efisiensi** — Memanfaatkan sumber daya secara optimal melalui teknologi dan inovasi.
+* **Kualitas** — Menghasilkan produk pertanian yang segar, aman, dan konsisten.
+* **Harga yang Adil** — Memberikan harga yang wajar bagi pelanggan sekaligus menjaga keberlanjutan usaha.
+
+Keempat nilai tersebut menjadi dasar dalam pengembangan produk, pelayanan pelanggan, dan pengambilan keputusan bisnis.
+
+---
+
 # Positioning Brand
 
 Hazz Farm diposisikan sebagai:
@@ -41,7 +54,7 @@ Hazz Farm diposisikan sebagai:
 * Perusahaan Agritech
 * Modern Agriculture Company
 * Smart Farming Innovator
-* Technology Driven Agriculture
+* Technology-Driven Agriculture
 
 Hazz Farm **bukan** diposisikan sebagai:
 
@@ -59,8 +72,8 @@ Brand Hazz Farm harus selalu mencerminkan karakter berikut.
 | Nilai         | Penjelasan                                                          |
 | ------------- | ------------------------------------------------------------------- |
 | Modern        | Mengikuti perkembangan teknologi dan inovasi.                       |
-| Profesional   | Informasi akurat, desain rapi, dan komunikasi jelas.                |
-| Inovatif      | Selalu mencari solusi baru untuk pertanian.                         |
+| Profesional   | Menyampaikan informasi secara akurat, jelas, dan terpercaya.        |
+| Inovatif      | Terus mengembangkan solusi baru untuk pertanian.                    |
 | Terpercaya    | Mengutamakan transparansi dan kualitas.                             |
 | Edukatif      | Aktif berbagi pengetahuan kepada masyarakat.                        |
 | Berkelanjutan | Memperhatikan dampak jangka panjang terhadap lingkungan dan bisnis. |
@@ -76,8 +89,6 @@ Brand Hazz Farm harus selalu mencerminkan karakter berikut.
 * Pelaku agribisnis.
 * Mitra usaha.
 
----
-
 ## Sekunder
 
 * Mahasiswa.
@@ -91,27 +102,68 @@ Brand Hazz Farm harus selalu mencerminkan karakter berikut.
 
 # Tone of Voice
 
-Cara Hazz Farm berkomunikasi harus selalu:
+Seluruh komunikasi Hazz Farm harus memiliki karakter berikut.
 
 * Profesional.
 * Ramah.
 * Informatif.
-* Sederhana.
+* Mudah dipahami.
 * Berbasis data.
 * Tidak berlebihan.
+
+Komunikasi yang disampaikan harus membangun kepercayaan, bukan sekadar menarik perhatian.
+
+---
+
+# Prinsip Komunikasi
+
+Dalam setiap media komunikasi, Hazz Farm berpegang pada prinsip berikut.
+
+* **Jelas** — Informasi mudah dipahami dan tidak menimbulkan ambiguitas.
+* **Jujur** — Tidak membuat klaim yang tidak dapat dibuktikan.
+* **Profesional** — Menggunakan bahasa yang sopan dan konsisten.
+* **Informatif** — Memberikan nilai tambah bagi pembaca.
+* **Berorientasi Solusi** — Fokus pada manfaat dan penyelesaian masalah.
+
+---
+
+# Janji Brand
+
+Hazz Farm berkomitmen untuk:
+
+* Menghasilkan produk pertanian berkualitas.
+* Mengembangkan teknologi yang bermanfaat bagi sektor pertanian.
+* Menjaga transparansi kepada pelanggan dan mitra.
+* Terus belajar, berinovasi, dan berkembang.
+* Memberikan pelayanan yang profesional dan bertanggung jawab.
+
+---
+
+# Hal yang Harus Dihindari
+
+Dalam seluruh media komunikasi Hazz Farm, hindari:
+
+* Klaim yang tidak dapat dibuktikan.
+* Informasi yang tidak akurat.
+* Clickbait.
+* Bahasa yang merendahkan pihak lain.
+* Penggunaan emoji secara berlebihan.
+* Visual yang berlebihan dan tidak relevan dengan identitas brand.
+* Komunikasi yang dapat menurunkan kepercayaan terhadap perusahaan.
 
 ---
 
 # Media Sosial
 
-Konten media sosial mengikuti prinsip:
+Seluruh konten media sosial Hazz Farm harus mengikuti prinsip berikut.
 
 * Edukatif.
 * Informatif.
 * Dokumentatif.
 * Berkualitas.
+* Konsisten dengan identitas brand.
 
-Prioritaskan dokumentasi lapangan dibandingkan desain promosi yang berlebihan.
+Prioritaskan dokumentasi kegiatan nyata di lapangan dibandingkan konten promosi yang berlebihan.
 
 ---
 
@@ -120,3 +172,5 @@ Prioritaskan dokumentasi lapangan dibandingkan desain promosi yang berlebihan.
 Brand Hazz Farm dibangun untuk mencerminkan perusahaan agritech yang mengutamakan inovasi, teknologi, dan keberlanjutan.
 
 Seluruh identitas visual maupun komunikasi harus menjaga konsistensi agar Hazz Farm dikenali sebagai perusahaan yang profesional, terpercaya, dan siap berkembang di masa depan.
+
+Dokumen ini menjadi acuan utama dalam membangun citra Hazz Farm di seluruh media, baik digital maupun non-digital.
